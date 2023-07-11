@@ -1,0 +1,44 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://JoKons.github.io/ExampleProject/annotations/recording2-canvas-1-intro.json",
+  "type": "AnnotationPage",
+  "label": "Intro",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "recording2-canvas-1-intro-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Test test",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Intro",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Speaker",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://JoKons.github.io/ExampleProject/recording2/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,90.0"
+        }
+      }
+    }
+  ]
+}

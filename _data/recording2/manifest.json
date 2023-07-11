@@ -5,7 +5,7 @@
     "label": { "en": [ "Recording2" ] },
     "homepage": [
       {
-        "id": "https://ualberta.aviaryplatform.com/collections/1783/collection_resources/59228?u=t&amp;amp;keywords[]=lochhead",
+        "id": "https://ualberta.aviaryplatform.com/collections/1783/collection_resources/59228?u=t&amp;amp;amp;keywords[]=lochhead",
         "type": "Text",
         "label": { "en": [ "Recording2" ] },
         "format": "text/html"
@@ -16,6 +16,16 @@
         "id": "https://JoKons.github.io/ExampleProject/recording2/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2695.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://JoKons.github.io/ExampleProject/annotations/recording2-canvas-1-intro.json",
+            "label": {
+              "none": ["Intro"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://JoKons.github.io/ExampleProject/recording2/canvas-1/paintings",
