@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Recording2
 manifest_name: recording2
 permalink: recording2
