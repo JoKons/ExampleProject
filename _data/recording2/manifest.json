@@ -5,7 +5,7 @@
     "label": { "en": [ "Recording2" ] },
     "homepage": [
       {
-        "id": "https://ualberta.aviaryplatform.com/collections/1783/collection_resources/59228?u=t&amp;keywords[]=lochhead",
+        "id": "https://ualberta.aviaryplatform.com/collections/1783/collection_resources/59228?u=t&amp;amp;keywords[]=lochhead",
         "type": "Text",
         "label": { "en": [ "Recording2" ] },
         "format": "text/html"
