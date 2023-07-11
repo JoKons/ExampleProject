@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://JoKons.github.io/ExampleProject/recording2/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Recording2" ] },
+    "homepage": [
+      {
+        "id": "https://ualberta.aviaryplatform.com/collections/1783/collection_resources/59228?u=t&amp;keywords[]=lochhead",
+        "type": "Text",
+        "label": { "en": [ "Recording2" ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://JoKons.github.io/ExampleProject/recording2/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2695.0,
+        "items": [
+          {
+            "id": "https://JoKons.github.io/ExampleProject/recording2/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://JoKons.github.io/ExampleProject/recording2/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ualberta.aviaryplatform.com/r/fn10p0xj63",
+                    "duration": 2695.0
+                },
+                "target": "https://JoKons.github.io/ExampleProject/recording2/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
